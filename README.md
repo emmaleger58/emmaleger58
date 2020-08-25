@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-  <img src="https://media3.giphy.com/media/xTiTnwtxXU2SbrTsmA/source.gif" />
+  <img src="https://media2.giphy.com/media/l0HlzeWiv3m3D77RS/source.gif" />
 </p>
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=emmaleger58&count_private=true&show_icons=true&&bg_color=000000&title_color=80ffd4&text_color=d0e5d7&icon_color=99ffcc" />
